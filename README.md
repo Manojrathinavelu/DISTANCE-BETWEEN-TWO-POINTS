@@ -12,7 +12,7 @@ get the values from the user
 ### Step 3: 
 Substitute the values in the distance formula  
 
-![formula](/formula.jpg)
+![formula](/formula.png)
 
 ### Step 4: 
 print the statement
